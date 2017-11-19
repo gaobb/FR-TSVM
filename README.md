@@ -1,5 +1,5 @@
 # FRTSVM
-This package is a MatConvNet implementation of ["A Fast and Robust TSVM for Pattern Classification",Bin-Bin Gao, Jian-Jun Wang](https://arxiv.org/abs/1711.05406). You can train frtsvm model for binary classification. This package is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb/).
+This package is a Matlab implementation of ["A Fast and Robust TSVM for Pattern Classification",Bin-Bin Gao, Jian-Jun Wang](https://arxiv.org/abs/1711.05406). You can train frtsvm model for binary classification. This package is created by [Bin-Bin Gao](http://lamda.nju.edu.cn/gaobb/).
 
 ![GI](./figure/GI.png)
 
